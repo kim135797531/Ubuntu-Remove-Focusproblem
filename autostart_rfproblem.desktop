@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/share/rfocusproblem/rfocusproblem.sh
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=rfocusproblem.desktop
+Comment=rfproblem
